@@ -1,0 +1,4 @@
+﻿  app.cpp
+c:\users\bar\desktop\bar\dev\sb7code\exercises\app.cpp(24): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bar\desktop\bar\dev\sb7code\exercises\app.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+  exercises.vcxproj -> C:\Users\bar\Desktop\bar\dev\sb7code\Debug\exercises.exe
